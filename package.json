@@ -27,7 +27,9 @@
     "nodemon": "^3.1.9"
   },
   "dependencies": {
+    "auth-middleware": "^1.0.0",
     "bcrypt": "^5.1.1",
-    "express-session": "^1.18.1"
+    "express-session": "^1.18.1",
+    "jsonwebtoken": "^9.0.2"
   }
 }
